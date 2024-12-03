@@ -1,6 +1,6 @@
-# LockedIn24 - Daily Technical Learnings
+# Daily_learnings - Daily Technical Learnings
 
-Welcome to **LockedIn24**, a repository documenting my daily learnings on various technical subjects. This project serves as a personal knowledge bank and a way to track my growth and understanding in areas like **Next.js**, **Node.js**, and **Machine Learning**. 
+Welcome to **Daily_learnings**, a repository documenting my daily learnings on various technical subjects. This project serves as a personal knowledge bank and a way to track my growth and understanding in areas like **Next.js**, **Node.js**, and **Machine Learning**. 
 
 Feel free to explore, learn, and even contribute ideas as I document my journey. 🚀
 
